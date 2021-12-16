@@ -47,7 +47,7 @@ The root directory has a `package.json` which contains build-related dependencie
 
 This runs the Lerna "bootstrap" command, which cross-links monorepo dependencies.
 
-### 3. Build all packages
+### 3. Build all packages 
 
 `yarn build`
 
